@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="800"
+   viewBox="0 0 399.99998 799.99999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/house.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="road.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="159.22093"
+     inkscape:cy="268.44037"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:object-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid4136"
+       units="px"
+       empspacing="4"
+       spacingy="25"
+       gridanglex="30"
+       gridanglez="30"
+       originx="199.99999" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-252.36235)">
+    <path
+       style="fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 113.39744,727.36235 -21.650632,-12.5 108.253172,-62.5 0,25 z"
+       id="path5278"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 5.1442664,714.86235 c 0,0 194.8557136,-112.50001 194.8557136,-112.50001 l 21.65064,12.5 -194.855718,112.50001 z"
+       id="path5274"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5192"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/road.png"
+         sodipodi:nodetypes="ccccc"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 199.99998,1052.3623 194.85572,-112.50005 0,-25 -194.85573,112.50005 z"
+         id="path5089"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/road.png"
+         sodipodi:nodetypes="ccccc"
+         style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 199.99998,1052.3623 5.14426,939.86225 l 0,-25 194.85571,112.50005 z"
+         id="path5091"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/road.png"
+         inkscape:connector-curvature="0"
+         id="path5093"
+         d="M 199.99998,1027.3623 394.85569,914.86225 199.99998,802.3623 5.14425,914.86225 Z"
+         style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/road.png"
+         inkscape:connector-curvature="0"
+         id="path5095"
+         d="M 135.04807,989.86225 329.90378,877.3623 351.55442,889.86225 156.69871,1002.3623 Z"
+         style="fill:#b8b8b8;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/road.png"
+         inkscape:connector-curvature="0"
+         id="path5097"
+         d="m 26.79489,927.36225 21.65063,12.5 194.85573,-112.49995 -21.65064,-12.5 z"
+         style="fill:#b8b8b8;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/road.png"
+         inkscape:connector-curvature="0"
+         id="path5099"
+         d="m 91.74679,914.86225 86.60255,50 21.65064,-12.5 -86.60255,-50 z"
+         style="fill:#b8b8b8;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/road.png"
+         inkscape:connector-curvature="0"
+         id="path5101"
+         d="m 199.99998,852.3623 86.60254,49.99995 21.65063,-12.5 -86.60254,-49.99995 z"
+         style="fill:#b8b8b8;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/road.png"
+         inkscape:connector-curvature="0"
+         id="path5103"
+         d="m 243.30125,952.36235 43.30127,25 21.65064,-12.5 -43.30127,-25 z"
+         style="fill:#b8b8b8;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/road.png"
+         inkscape:connector-curvature="0"
+         id="path5105"
+         d="M 113.39742,877.36225 91.7468,864.8623 l 21.65062,-12.5 21.65065,12.5 z"
+         style="fill:#b8b8b8;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/road.png"
+         inkscape:connector-curvature="0"
+         id="path5107"
+         d="m 70.09616,902.36225 -21.65063,-12.5 -21.65064,12.5 21.65064,12.5 z"
+         style="fill:#b8b8b8;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/road.png"
+         inkscape:connector-curvature="0"
+         id="path5109"
+         d="m 178.34934,989.86235 43.30127,24.99995 21.65064,-12.5 -43.30127,-24.99995 z"
+         style="fill:#b8b8b8;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:connector-curvature="0"
+       id="path5215"
+       d="m 26.794895,727.36229 21.65063,12.5 194.855725,-112.49995 -21.65064,-12.5 z"
+       style="fill:#b8b8b8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#857c2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.04807,889.86235 0,-300.00001 21.65064,12.5 0,300.00001 z"
+       id="path5240"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5172"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/house.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(454.66333,-37.500004)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4138"
+         d="m 199.99998,1052.3623 194.85572,-112.49995 0,-200 -194.85572,112.5 z"
+         style="fill:#c4b853;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4140"
+         d="M 199.99998,1052.3623 5.1442664,939.86235 l 0,-200 194.8557136,112.5 z"
+         style="fill:#d7cf8b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path4377"
+         transform="translate(-1.5258789e-5,252.36235)"
+         d="M 200,375 5.1445312,487.5 200,600 394.85547,487.5 200,375 Z m 0,25 151.55469,87.5 L 200,575 48.445312,487.5 200,400 Z"
+         style="fill:#e5e0b4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4382"
+         d="m 70.096173,752.36235 -21.650636,-12.5 151.554443,-87.50001 0,25.00001 z"
+         style="fill:#c4b853;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4384"
+         d="m 199.99998,677.36235 0,-25.00001 151.55445,87.50001 -21.65064,12.5 z"
+         style="fill:#d7cf8b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4386"
+         d="m 199.99998,827.36235 -129.903807,-75 129.903807,-75 129.90381,75 z"
+         style="fill:#c6c6c6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4388"
+         d="m 70.096173,952.3624 9e-6,-150.00005 64.951898,37.5 -1e-5,150 z"
+         style="fill:#857c2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:connector-curvature="0"
+       id="path5219"
+       d="m 199.99998,652.36234 86.60254,49.99995 21.65063,-12.5 -86.60254,-49.99995 z"
+       style="fill:#b8b8b8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:connector-curvature="0"
+       id="path5223"
+       d="m 113.39742,677.36229 -21.650615,-12.49995 21.650615,-12.5 21.65065,12.5 z"
+       style="fill:#b8b8b8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:connector-curvature="0"
+       id="path5225"
+       d="m 70.096165,702.36229 -21.65063,-12.5 -21.65064,12.5 21.65064,12.5 z"
+       style="fill:#b8b8b8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5242"
+       d="m 178.34935,889.86235 0,-300.00001 -21.65064,12.5 0,300.00001 z"
+       style="fill:#534e1c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#b0a33c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.69871,602.36234 21.65063,-12.5 -21.65063,-12.5 -21.65064,12.5 z"
+       id="path5244"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 199.99998,852.36234 5.1442647,739.86229 l 0,-25 194.8557053,112.50005 z"
+       id="path5209"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path5246"
+       d="m 221.65061,939.86235 1e-5,-300 21.65064,12.5 -1e-5,300 z"
+       style="fill:#857c2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       style="fill:#534e1c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 264.95189,939.86235 0,-300.00001 -21.65064,12.5 0,300.00001 z"
+       id="path5248"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5250"
+       d="m 243.30126,652.36234 21.65063,-12.5 -21.65063,-12.5 -21.65064,12.5 z"
+       style="fill:#b0a33c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#857c2d;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 156.69871,877.36235 64.95191,37.5 0,-25 -64.95191,-37.5 z"
+       id="path5252"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#b0a33c;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 156.69871,852.36235 21.65063,-12.5 43.30128,25 0,25 z"
+       id="path5254"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5256"
+       d="m 156.69871,802.36235 64.95191,37.5 0,-25 -64.95191,-37.5 z"
+       style="fill:#857c2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5258"
+       d="m 156.69871,777.36235 21.65063,-12.5 43.30128,25 0,25 z"
+       style="fill:#b0a33c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#857c2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.69871,727.36235 64.95191,37.5 0,-25 -64.95191,-37.5 z"
+       id="path5260"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#b0a33c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.69871,702.36235 21.65063,-12.5 43.30128,25 0,25 z"
+       id="path5262"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5264"
+       d="m 156.69871,652.36234 64.95191,37.5 0,-25 -64.95191,-37.5 z"
+       style="fill:#857c2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5266"
+       d="m 156.69871,627.36234 21.65063,-12.5 43.30128,25 0,25 z"
+       style="fill:#b0a33c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:connector-curvature="0"
+       id="path5213"
+       d="m 135.04807,789.86229 43.30127,-24.99989 21.65064,12.49995 -43.30127,24.99999 z"
+       style="fill:#b8b8b8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 199.99998,852.3624 194.85572,-112.50005 0,-25 -194.85573,112.50005 z"
+       id="path5207"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#b8b8b8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 286.60252,702.3623 43.30126,-24.99996 21.65064,12.49995 -43.30126,25.00006 z"
+       id="path5268"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 199.99998,827.36235 -43.30127,-25 194.85572,-112.5 43.30127,25 z"
+       id="path5270"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:connector-curvature="0"
+       id="path5227"
+       d="m 178.34934,789.86239 43.30127,24.99995 21.65064,-12.5 -43.30127,-24.99995 z"
+       style="fill:#b8b8b8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:connector-curvature="0"
+       id="path5221"
+       d="m 243.30125,752.36239 43.30127,25 21.65064,-12.5 -43.30127,-25 z"
+       style="fill:#b8b8b8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 135.04807,789.86235 c 0,0 43.30127,-25 43.30127,-25 l -86.602532,-50 -43.301271,25 z"
+       id="path5272"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 308.25316,689.86235 -43.30127,-25 0,-25.00001 64.9519,37.50001 z"
+       id="path5276"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 286.60252,727.36235 -21.65063,-12.5 0,-25 43.30127,25 z"
+       id="path5280"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michiel/Unity Projects/LD 38/Assets/Sprites/ladder.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
